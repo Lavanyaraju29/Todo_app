@@ -1,0 +1,19 @@
+body{
+    font-family: Arial;
+    background-color: #f4f4f4;
+    margin: 6;
+    padding: 23;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+}
+
+.container{
+    background:white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 010px rgba(0, 0, 0, 0.1 );
+    width: 400px;
+    max-width: 100%
+}
